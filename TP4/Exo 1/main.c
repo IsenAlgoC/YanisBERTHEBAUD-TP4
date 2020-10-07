@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "tp4.h"
 
 int main() {
-	#include "tp4.h"
 	HEURE HeureDebut = { 12, 30 };
 	HEURE HeureFin;
 	HEURE Duree = { 00, 45 };
